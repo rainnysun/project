@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5b7277a4c8135b384489ad01"},"type":"1","siteOne":"北京","siteTwo":"Beijing","image":"images/hotel/hote1.jpg","icon1":"整套出租","icon2":"宜住6人","icon3":"共4张床","price":"￥846"}
+{"_id":{"$oid":"5b72af726a817a38441b2d8b"},"type":"1","siteOne":"天津","siteTwo":"tianjin","image":"images/hotel/hotel2.jpg","icon1":"整套出租","icon2":"宜住2人","icon3":"共1张床","price":"￥285"}
+{"_id":{"$oid":"5b72af756a817a38441b2d8c"},"type":"1","siteOne":"广州","siteTwo":"guangzhou","image":"images/hotel/hotel3.jpg","icon1":"独立单间","icon2":"宜住2人","icon3":"共1张床","price":"￥248"}
+{"_id":{"$oid":"5b72af786a817a38441b2d8d"},"type":"1","siteOne":"北京","siteTwo":"Beijing","image":"images/hotel/hote1.jpg","icon1":"整套出租","icon2":"宜住6人","icon3":"共4张床","price":"￥846"}
+{"_id":{"$oid":"5b72bb4e6a817a38441b2d94"},"type":"1","siteOne":"天津","siteTwo":"tianjin","image":"images/hotel/hotel2.jpg","icon1":"整套出租","icon2":"宜住2人","icon3":"共1张床","price":"￥285"}

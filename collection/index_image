@@ -1,0 +1,12 @@
+{"_id":{"$oid":"5b719c9348ebe53cf0e76191"},"type":"inland","image":"images/scene/shanghai .jpg","title":"上海","message":"必玩景点 ：上海迪士尼度假区 、外滩 、东方明珠"}
+{"_id":{"$oid":"5b719c9b48ebe53cf0e76192"},"type":"inland","image":"images/scene/beijing.jpg","title":"北京","message":"必玩景点 ：故宫 、天安门广场 、古北水镇"}
+{"_id":{"$oid":"5b719c9f48ebe53cf0e76193"},"type":"inland","image":"images/scene/xian.jpg","title":"西安","message":"必玩景点 ：秦始皇兵马俑博物馆 、陕西历史博物馆 、"}
+{"_id":{"$oid":"5b719cae48ebe53cf0e76194"},"type":"inland","image":"images/scene/xiangan.jpg","title":"香港","message":"必玩景点： 香港迪士尼乐园 、香港海洋公园 、太平山顶"}
+{"_id":{"$oid":"5b719cb848ebe53cf0e76195"},"type":"world","image":"images/scene/kaiensi.jpg","title":"凯恩斯","message":"必玩景点： 大堡礁 、库兰达热带雨林公园 、绿岛"}
+{"_id":{"$oid":"5b719cea48ebe53cf0e76196"},"type":"world","image":"images/scene/basailuona.jpg","title":"巴塞罗那","message":"必玩景点 ：圣家族大教堂 、巴特罗之家 、古埃尔公园"}
+{"_id":{"$oid":"5b719d0c48ebe53cf0e76197"},"type":"world","image":"images/scene/bali.jpg","title":"巴黎","message":"必玩景点： 卢浮宫 、埃菲尔铁塔 、巴黎圣母院"}
+{"_id":{"$oid":"5b719d1048ebe53cf0e76198"},"type":"world","image":"images/scene/batiya.jpg","title":"芭提雅","message":"必玩景点： 芭提雅海滩 、格兰岛 、东芭乐园"}
+{"_id":{"$oid":"5b76204eb489bc38680c291e"},"type":"inland","image":"images/scene/chengdu.jpg","title":"成都","message":"必玩景点：都江堰景区 、锦里古街 、宽窄巷子"}
+{"_id":{"$oid":"5b762086b489bc38680c291f"},"type":"inland","image":"images/scene/hangzhou.jpg","title":"杭州","message":"必玩景点：西湖 、灵隐寺 、杭州宋城景区"}
+{"_id":{"$oid":"5b762165b489bc38680c2920"},"type":"world","image":"images/scene/daban.jpg","title":"大阪","message":"必玩景点： 日本环球影城 、心斋桥 、道顿堀"}
+{"_id":{"$oid":"5b762168b489bc38680c2921"},"type":"world","image":"images/scene/dongjing.jpg","title":"东京","message":"必玩景点： 浅草寺 、东京迪士尼乐园 、东京迪士尼海洋"}
