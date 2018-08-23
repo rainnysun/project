@@ -1,0 +1,30 @@
+doctype html
+html
+    head
+        meta(charset="UTF-8")
+        link(rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous")
+        link(rel="stylesheet" href="../stylesheets/hotel.css")
+        title HOTEL
+    body
+        div(class="container")
+            each i in hotelSection
+                div(class="section")
+                    div(class="title")
+                        span(class="icon fas fa-home fa-2x")
+                        span(class="site") #{i.siteOne}
+                            br/ #{i.siteTwo}
+                        a(href="order")
+                            span(class="order") order
+                    div(class="image")
+                        img(src=i.image)
+                        div(class="message")
+                            span(class="fas fa-home") #{i.icon1}
+                            span(class="fas fa-home") #{i.icon2}
+                            span(class="fas fa-home") #{i.icon3}
+                            span(class="price") #{i.price}
+                div#next
+    script(src="../javascripts/jquery-3.1.1.min.js")
+    script(src="../javascripts/jquery.smoove.js")
+    script(src="../javascripts/hotelAjax.js")
+
+

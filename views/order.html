@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="../stylesheets/calendar.css">
+    <link rel="stylesheet" href="../stylesheets/order.css">
+    <script src="../javascripts/jquery.min.js"></script>
+    <script type="text/javascript" src="../javascripts/date.js"></script>
+  </head>
+  <body>
+    <div class="form">
+      <div class="f-title">预定</div>
+      <div class="detail">
+        <div class="picture"><img src="../images/linjia.png"></div>
+        <div class="message"><span>FREEDY良习街口道口未来城武汉大学投影房</span><span>整套出租</span></div>
+      </div>
+      <div class="clear"></div>
+      <div class="s-title">入住时段</div>
+      <div id="checkinout">
+        <div id="firstSelect" style="width:100%;">
+          <div class="Date_lr" style="float:left;">
+            <p>入住</p>
+            <input id="startDate" type="text" readonly/>
+          </div>
+          <div class="Date_lr" style="float:right;">
+            <p>离店</p>
+            <input id="endDate" type="text" readonly/>
+          </div><span class="span21">共<span class="NumDate">1</span><span>晚</span></span>
+        </div>
+        <div class="mask_calendar">
+          <div class="calendar"></div>
+        </div>
+      </div>
+      <div class="s-title">请填写订单信息</div>
+      <div class="person"><span>入住人数:</span>
+        <div class="jiajian-1">
+          <input class="minus" type="button" value="-">
+          <input class="result" type="text" value="0">
+          <input class="add" type="button" value="+">
+        </div><span>人</span>
+        <div class="jiajian-2"><span>人均：</span><span class="price">50<span>元</span></span></div>
+      </div>
+      <div class="gwc-queren">
+        <div class="left">合计<span class="total" id="total">0<span>元</span></span></div>
+        <div class="right"><a href="#">立即支付</a></div>
+      </div>
+      <div class="clear"></div>
+    </div>
+    <script src="../javascripts/order.js"></script>
+    <script src="../javascripts/orderCad.js"></script>
+  </body>
+</html>

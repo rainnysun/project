@@ -1,0 +1,54 @@
+doctype html
+html
+    head
+        title Cairns
+        meta(http-equiv="Content-Type" content="text/html;charset=utf-8")
+        meta(name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0")
+        link(rel="stylesheet", type="text/css" href="../stylesheets/detail.css")
+        link(rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous")
+        script(src="../javascripts/common.js")
+        script(src="../javascripts/jquery-3.1.1.min.js")
+        script(src="../javascripts/TouchSlide.1.1.js")
+    body
+    div(class="content")
+        div(class="site")
+            span(class="icon fas fa-map-marker-alt fa-3x")
+                //img(src="../images/dingwei.png")
+            span 澳大利亚
+            span 凯恩斯
+        div(id="slideBox" class="slideBox")
+            div(class="bd")
+                ul
+                    li
+                        a(class="pic" href="#")
+                            img(src="../images/banner/banner1.jpg")
+                    li
+                        a(class="pic" href="#")
+                            img(src="../images/banner/banner2.jpg")
+                    li
+                        a(class="pic" href="#")
+                            img(src="../images/banner/banner3.jpg")
+            div(class="hd")
+                ul
+        .clear
+        each i in sectionOne
+            div(class="detail")
+                div(class="title") #{i.title}
+                div(class="introduce")
+                    p #{i.parphy1}
+                    p #{i.parphy2}
+                    p #{i.parphy3}
+                    p #{i.parphy4}
+
+    script(src="../javascripts/slider.js")
+    //script(src="../javascripts/indexAjax.js")
+    script(src="../javascripts/jquery.smoove.js")
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,309 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    background: url('../images/bg_comment.jpg') no-repeat 62% 34%;
+    background-size: cover;
+    text-align:center;
+}
+.form{
+    margin:120px auto;
+    width: 23%;
+    /*background:#44a7eb4a;*/
+    background:rgba(0, 0, 0, 0.34);
+    padding: 42px 35px;
+
+    /*position: absolute;*/
+}
+.form h2{
+    color: #fff;
+    font-size:30px;
+    letter-spacing: 2px;
+    padding-bottom: 15px;
+    text-transform: uppercase;
+}
+form{
+    position: relative;
+}
+input[type="text"],
+input[type="email"],
+input[type="password"]{
+    width: 94%;
+    padding: 20px 0 20px 25px;
+    box-sizing: border-box;
+    display: inline-block;
+    /*padding: 0;*/
+    /*margin-top: 10px;*/
+    margin: 20px 0;
+    outline: none;
+    background: rgba(114, 106, 106, 0.34);
+    /*background: rgb(249, 248, 248);*/
+    text-align: left;
+    caret-color: #fff;
+    color: white;
+    font-size: 17px;
+    border: 1px solid transparent;
+    /*border-radius: 30px;*/
+    position: relative;
+}
+.suggestion {
+    display: inline-block;
+    /*color: white;*/
+    font-size: 12px;
+    /*margin-left: 10px;*/
+    /*float: left;*/
+    position: absolute;
+    left: 13px;
+    margin-top: 80px;
+    color: rgba(192, 73, 166, 0.9);
+}
+
+input[type="submit"] {
+    width: 98%;
+    padding: 15px;
+    font-size: 22px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background: #003b64;
+    color: white;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    margin: 20px auto 25px;
+    /*border-radius: 30px;*/
+}
+input[type="submit"]:hover{
+    background: rgba(192, 73, 166, 0.9);
+    transition:0.5s all;
+}
+.check {
+    width: 80%;
+    display: block;
+    padding: 10px;
+    color: white;
+    letter-spacing: 2px;
+}
+
+.back{
+    display: block;
+    color: white;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-top: 40px;
+}
+.back:hover{
+    color:rgba(208, 95, 216, 0.9);
+    transition:0.5s all;
+}
+
+
+
+/*适配*/
+@media(max-width:1440px){
+    .form {
+        width: 23%;
+    }
+    input[type="text"],
+    input[type="email"],
+    input[type="password"]{
+        width: 94%;
+        padding: 15px 0 15px 20px;
+        margin: 20px 0;
+        font-size: 16px;
+    }
+    input[type="submit"] {
+        padding: 15px 110px;
+        font-size: 20px;
+    }
+    .check{
+        width: 75%;
+        padding: 5px;
+        font-size: 15px;
+    }
+    .back{
+        font-size: 18px;
+    }
+}
+@media(max-width:1366px){
+    .form{
+        width: 25%;
+    }
+
+    input[type="submit"] {
+        padding: 12px 90px;
+        font-size: 20px;
+    }
+    .check{
+        width: 75%;
+        padding: 5px;
+        font-size: 15px;
+    }
+}
+@media(max-width:1280px) {
+    .form{
+        width: 30%;
+    }
+    .form h2 {
+        font-size: 27px;
+    }
+    input[type="text"],
+    input[type="email"],
+    input[type="password"]{
+        font-size: 15px;
+    }
+    .check {
+        width: 90%;
+        padding: 5px;
+    }
+    .back{
+        font-size: 16px;
+    }
+
+}
+@media(max-width:1024px) {
+    .form {
+        width: 40%;
+    }
+}
+@media(max-width:991px){
+    .form{
+        width: 40%;
+    }
+}
+@media(max-width:800px){
+    .form h2 {
+        font-size: 23px;
+    }
+    .form{
+        margin-top: 100px;
+        width: 35%;
+    }
+
+    input[type="text"],
+    input[type="email"],
+    input[type="password"]{
+        font-size: 13px;
+    }
+    .check {
+        padding: 5px;
+        font-size: 12px;
+    }
+    .back{
+        font-size: 14px;
+    }
+
+}
+@media(max-width:768px){
+    .form{
+        width: 40%;
+    }
+    .form h2 {
+        font-size: 22px;
+    }
+    .check {
+        padding: 5px;
+        font-size: 11px;
+    }
+    .back{
+        font-size: 13px;
+    }
+
+}
+@media(max-width:736px){
+    .form{
+        width: 42%;
+    }
+}
+@media(max-width:667px){
+    .form{
+        width: 45%;
+    }
+    input[type="text"],
+    input[type="email"],
+    input[type="password"]{
+        padding: 15px 0 15px 20px;
+        font-size: 13px;
+    }
+    input[type="submit"] {
+        font-size: 18px;
+        padding: 12px;
+    }
+}
+@media (max-width: 600px){
+    .form{
+        width: 50%;
+    }
+}
+@media (max-width: 568px) {
+    .form {
+        width: 55%;
+    }
+}
+@media (max-width: 480px){
+    .form{
+        width: 60%;
+        margin-top: 80px;
+    }
+    .form h2 {
+        font-size: 19px;
+    }
+    input[type="text"],
+    input[type="email"],
+    input[type="password"]{
+        /*width: 90%;*/
+        padding: 15px 0 15px 20px;
+        font-size: 13px;
+    }
+    input[type="submit"] {
+        font-size: 18px;
+        padding: 12px;
+    }
+    .check{
+        width: 100%;
+        font-size: 14px;
+    }
+}
+@media (max-width: 384px){
+    .form{
+        width: 60%;
+        margin-top: 80px;
+    }
+    .form h2 {
+        font-size: 16px;
+    }
+    input[type="text"],
+    input[type="email"],
+    input[type="password"]{
+        /*width: 90%;*/
+        padding: 10px 10px 10px 10px;
+        font-size: 12px;
+        /*width: 90%;*/
+    }
+    input[type="submit"] {
+        width: 100%;
+        font-size: 16px;
+        padding: 10px;
+        margin: 10px auto 15px;
+    }
+    .suggestion{
+        margin-top: 60px;
+    }
+    .check{
+        width: 100%;
+        font-size: 12px;
+    }
+    .back{
+        margin-top: 12px;
+    }
+}
+@media (max-width: 375px){
+    .form{
+        width: 70%;
+        /*margin-top: 35px;*/
+    }
+}
+
+

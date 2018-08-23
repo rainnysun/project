@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Index</title>
+    <meta name="viewport" content="width=device-width,height=device-height,user-scalable=no,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="../stylesheets/normalize.css">
+    <link rel="stylesheet" href="../stylesheets/main.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+    <script type="text/javascript" src="../javascripts/sortable.min.js"></script>
+  </head>
+  <body>
+    <div class="htmleaf-container">
+      <div id="intro">
+        <h1 id="text">Tourism is to relax <br>travel is to meet the heart</h1>
+      </div>
+      <mian class="sortable">
+        <div class="container">
+          <div class="wrapper">
+            <ul class="sortable__nav nav">
+              <li><a class="nav__link" data-sjslink="all">推荐景点</a></li>
+              <li><a class="nav__link" data-sjslink="flatty">国内景点</a></li>
+              <li><a class="nav__link" data-sjslink="funny">国外景点</a></li>
+            </ul>
+            <div class="sjs-default" id="sortable">
+              <div data-sjsel="flatty">
+                <div class="card"><img class="card__picture" src="../images/item-1.jpg">
+                  <div class="card-infos">
+                    <h2 class="card__title">title1</h2>
+                    <p class="card__text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, eius, asperiores. Incidunt sapiente est quae iure...</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </mian>
+    </div>
+  </body>
+
+  <script src="../javascripts/jquery-3.1.1.min.js"></script>
+  <script type="text/javascript" src="../javascripts/sortableIndex"></script>
+  <!--script(src="../routes/indexTwo.js")-->
+</html>

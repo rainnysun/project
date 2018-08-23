@@ -1,0 +1,270 @@
+body{
+    /*background: rgba(21, 36, 112, 0.3);*/
+    /*background: url(../images/bg3.jpg);*/
+    opacity: 0.9;
+    -webkit-background-size: cover;
+    background-size: cover;
+    font-size: 15px;
+}
+a{
+    text-decoration: none;
+}
+.clear {
+    clear:both;
+    height:0;
+    overflow:hidden;
+}
+.form{
+    width: 70%;
+    margin: 50px auto;
+    background: #ffffff;
+    padding: 20px;
+}
+.form .f-title{
+    font-size: 20px;
+    text-align: center;
+    border-top: 2px solid #eeeeee;
+    border-bottom: 2px solid #eeeeee;
+    padding: 10px 0;
+}
+.form .s-title{
+    font-size: 15px;
+    text-align: left;
+    padding:10px 0 10px 10px;
+    text-align: center;
+    margin-top: 20px;
+    border-top: 2px solid #eeeeee;
+    border-bottom: 2px solid #eeeeee;
+    /*padding: 10px;*/
+}
+.detail{
+    margin-top: 20px;
+}
+.detail .picture{
+    width: 40%;
+    float: left;
+}
+.detail .picture img{
+    width: 90%;
+}
+.detail .message{
+    float: right;
+    width: 58%;
+}
+.message span{
+    display: block;
+    margin-top: 10px;
+}
+
+.person span{
+    display: inline-block;
+    font-size: 15px;
+    padding: 10px 20px;
+}
+.person .jiajian-1{
+    display: inline-block;
+    /*font-size: 15px;*/
+    /*padding-right: 30px;*/
+
+}
+.jiajian-1 .minus,
+.jiajian-1 .add,
+.jiajian-1 .result{
+    width: 25px;
+    /* height: 15px; */
+    border: none;
+    font: 17px Arial bold;
+    padding: 0;
+    outline: none;
+    color: #aeacac;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.gwc-queren{
+    margin: 30px 0;
+}
+.gwc-queren .left{
+    float: left;
+    color: #ff5469;
+    font-size: 20px;
+    padding: 8px 0;
+}
+.gwc-queren .right{
+    float: right;
+    padding: 11px 29px;
+    box-sizing: border-box;
+    background-color: #ff5469;
+}
+.gwc-queren .right a{
+    color: #eeeeee;
+}
+.Date_lr{width:50%;text-align:center;}
+.span21{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    font-size:14px;
+    color: #666;
+    border: 1px solid #e5e5e5;
+    padding:2px 8px;
+    line-height: 20px;
+    border-radius: .2rem;
+    background-color: #fff;
+}
+#checkinout{
+    height: 50px;
+    line-height: 50px;
+    position: relative;
+    margin: 10px;
+    padding: 2px 0;
+    display: -webkit-box;
+    display: flex;
+    /*width: 100%;*/
+    /*border: 1px solid #e5e5e5;*/
+    border-radius: .02rem;
+    background-color: #fff;
+}
+#firstSelect p{
+    line-height:25px;
+    color: #999;
+    font-size:12px;}
+#startDate{
+    border:0;
+    position: absolute;
+    left: 0;
+    margin: 0 auto;
+    width: 50%;
+    font-size: 16px;
+    color: #e18b96;
+    text-align: center;}
+#endDate{
+    border:0;
+    position: absolute;
+    right: 0;
+    margin:auto 0;
+    width:50%;
+    font-size: 16px;
+    color: #e18b96;
+    text-align: center;
+}
+.mask_calendar {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0,0,0,.4);
+    display: none;
+    z-index: 9999;
+}
+.calendar {
+    height: 400px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+.animated {
+    animation-duration: 1s;
+    animation-fill-mode: both;
+}
+@keyframes slideInDown {
+    from {
+        transform: translate3d(0, -100%, 0);
+        visibility: visible;
+    }
+
+    to {
+        transform: translate3d(0, 0, 0);
+    }
+}
+.slideInDown {
+    animation-name: slideInDown;
+}
+.mask_calendar {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0,0,0,.4);
+    display: none;
+}
+.calendar {
+    height: 400px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+.Date_lr{width:50%;text-align:center;}
+.span21{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    font-size:14px;
+    color: #666;
+    border: 1px solid #e5e5e5;
+    padding:2px 8px;
+    line-height: 20px;
+    border-radius: .2rem;
+    background-color: #fff;
+}
+#checkinout{
+    height: 50px;
+    line-height: 50px;
+    position: relative;
+    margin: 10px;
+    padding: 2px 0;
+    display: -webkit-box;
+    /*display: flex;*/
+    margin-top: 8px;
+    /*border: 1px solid #e5e5e5;*/
+    border-radius: .02rem;
+    background-color: #fff;
+}
+#firstSelect p{line-height:25px;color: #999;font-size:12px;}
+#startDate{border:0;position: absolute;left: 0;margin: 0 auto;width: 50%;font-size: 16px;color: #e18b96;text-align: center;}
+#endDate{border:0;position: absolute;right: 0;margin:auto 0;width:50%;font-size: 16px;color: #e18b96;text-align: center;}
+.mask_calendar {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0,0,0,.4);
+    display: none;
+    z-index: 9999;
+}
+.calendar {
+    height: 400px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+.animated {
+    animation-duration: 1s;
+    animation-fill-mode: both;
+}
+@keyframes slideInDown {
+    from {
+        transform: translate3d(0, -100%, 0);
+        visibility: visible;
+    }
+
+    to {
+        transform: translate3d(0, 0, 0);
+    }
+}
+.slideInDown {
+    animation-name: slideInDown;
+}

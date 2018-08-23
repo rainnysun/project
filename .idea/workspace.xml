@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83dbf9a8-93e8-4706-8a4f-b8c2714e7a36" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="NodeProject" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Pug File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>scene</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/settings.js" />
+        <option value="$PROJECT_DIR$/views/index.pug" />
+        <option value="$PROJECT_DIR$/routes/registerForm.js" />
+        <option value="$PROJECT_DIR$/views/registerForm.pug" />
+        <option value="$PROJECT_DIR$/HW1/HW1/views/register.pug" />
+        <option value="$PROJECT_DIR$/HW1/HW1/routes/register.js" />
+        <option value="$PROJECT_DIR$/HW1/HW1/settings.js" />
+        <option value="$PROJECT_DIR$/models/result.js" />
+        <option value="$PROJECT_DIR$/models/signUp.js" />
+        <option value="$PROJECT_DIR$/models/pro.js" />
+        <option value="$PROJECT_DIR$/models/sign_up.js" />
+        <option value="$PROJECT_DIR$/public/javascripts/slider.js" />
+        <option value="$PROJECT_DIR$/public/javascripts/indexTwo.js" />
+        <option value="$PROJECT_DIR$/models/detail_insert.js" />
+        <option value="$PROJECT_DIR$/routes/detail.js" />
+        <option value="$PROJECT_DIR$/views/indexTwo.html" />
+        <option value="$PROJECT_DIR$/models/insert_pic.js" />
+        <option value="$PROJECT_DIR$/public/javascripts/indexAjax.js" />
+        <option value="$PROJECT_DIR$/views/hotel.html" />
+        <option value="$USER_HOME$/Desktop/表单验证.html" />
+        <option value="$PROJECT_DIR$/表单验证.html" />
+        <option value="$PROJECT_DIR$/routes/indexTwo.js" />
+        <option value="$PROJECT_DIR$/routes/hotel.js" />
+        <option value="$PROJECT_DIR$/models/hotel.js" />
+        <option value="$PROJECT_DIR$/public/stylesheets/menu_elastic.css" />
+        <option value="$PROJECT_DIR$/views/detail.pug" />
+        <option value="$PROJECT_DIR$/public/javascripts/hotelAjax.js" />
+        <option value="$PROJECT_DIR$/public/stylesheets/hotel.css" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/routes/order.js" />
+        <option value="$PROJECT_DIR$/public/javascripts/orderCad.js" />
+        <option value="$PROJECT_DIR$/public/stylesheets/order.css" />
+        <option value="$PROJECT_DIR$/views/indexTwo.pug" />
+        <option value="$PROJECT_DIR$/public/stylesheets/index2.css" />
+        <option value="$PROJECT_DIR$/public/javascripts/sortableIndex.js" />
+        <option value="$PROJECT_DIR$/public/stylesheets/detail.css" />
+        <option value="$PROJECT_DIR$/public/javascripts/blur.js" />
+        <option value="$PROJECT_DIR$/public/stylesheets/register.css" />
+        <option value="$PROJECT_DIR$/routes/index.js" />
+        <option value="$PROJECT_DIR$/public/stylesheets/login.css" />
+        <option value="$PROJECT_DIR$/views/register.pug" />
+        <option value="$PROJECT_DIR$/routes/register.js" />
+        <option value="$PROJECT_DIR$/public/javascripts/date.js" />
+        <option value="$PROJECT_DIR$/models/user.js" />
+        <option value="$PROJECT_DIR$/models/test.js" />
+        <option value="$PROJECT_DIR$/views/login.pug" />
+        <option value="$PROJECT_DIR$/routes/login.js" />
+        <option value="$PROJECT_DIR$/public/stylesheets/main.css" />
+        <option value="$PROJECT_DIR$/views/order.pug" />
+        <option value="$PROJECT_DIR$/views/hotel.pug" />
+        <option value="$PROJECT_DIR$/public/javascripts/registerForm.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="263" />
+    <option name="y" value="132" />
+    <option name="width" value="1331" />
+    <option name="height" value="811" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="NodeProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NodeProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NodeProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NodeProject" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NodeProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NodeProject" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="javascripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NodeProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NodeProject" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NodeProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NodeProject" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.11.3" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83dbf9a8-93e8-4706-8a4f-b8c2714e7a36" name="Default" comment="" />
+      <created>1533626531075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533626531075</updated>
+      <workItem from="1533626561120" duration="9338000" />
+      <workItem from="1533709932539" duration="18600000" />
+      <workItem from="1533773787622" duration="5827000" />
+      <workItem from="1533793113972" duration="28861000" />
+      <workItem from="1533860638994" duration="12422000" />
+      <workItem from="1533880820596" duration="13729000" />
+      <workItem from="1533950214628" duration="7847000" />
+      <workItem from="1534066852981" duration="13448000" />
+      <workItem from="1534119938175" duration="32729000" />
+      <workItem from="1534206150267" duration="34142000" />
+      <workItem from="1534292814235" duration="19283000" />
+      <workItem from="1534387273972" duration="73000" />
+      <workItem from="1534406009250" duration="3462000" />
+      <workItem from="1534465784997" duration="3159000" />
+      <workItem from="1534485135523" duration="3716000" />
+      <workItem from="1534682630595" duration="72000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="206708000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16067654" sideWeight="0.8490879" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952693" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.019384265" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13160677" sideWeight="0.5039909" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42189282" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13160677" sideWeight="0.1509121" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34747145" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13160677" sideWeight="0.5039909" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.014823261" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38654503" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2256871" sideWeight="0.8490879" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13160677" sideWeight="0.1509121" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34891677" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="74" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/表单验证.html" />
+    <entry file="file://$USER_HOME$/Documents/Tencent Files/570741823/FileRecv/out6-two.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10848">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/insert_pic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-640">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/Tencent Files/570741823/FileRecv/homePage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1312">
+          <caret line="41" column="25" lean-forward="true" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/menu_elastic.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/hotel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1376">
+          <caret line="43" column="58" lean-forward="true" selection-start-line="43" selection-start-column="58" selection-end-line="43" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/hotel.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2560">
+          <caret line="80" column="24" lean-forward="false" selection-start-line="80" selection-start-column="24" selection-end-line="80" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/indexTwo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/indexAjax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-192">
+          <caret line="29" column="31" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="16" column="44" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/hotel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="27" column="10" lean-forward="true" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/detail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="19" column="48" lean-forward="false" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/orderCad.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="10" column="15" lean-forward="false" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/order.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="49" column="12" lean-forward="true" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/order.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/order.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="78" column="19" lean-forward="true" selection-start-line="78" selection-start-column="19" selection-end-line="78" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/index2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9188">
+          <caret line="403" column="0" lean-forward="true" selection-start-line="403" selection-start-column="0" selection-end-line="403" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/sortable.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/classie.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1376">
+          <caret line="43" column="33" lean-forward="true" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/sortable.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1632">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/hotelAjax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/detail.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="123" column="26" lean-forward="false" selection-start-line="123" selection-start-column="26" selection-end-line="123" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/detail.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1047">
+          <caret line="40" column="34" lean-forward="true" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/order.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="3" column="59" lean-forward="true" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/jquery.smoove.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4672">
+          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/blur.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="24" column="23" lean-forward="false" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/result.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/register.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="288" column="31" lean-forward="false" selection-start-line="288" selection-start-column="31" selection-end-line="288" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/register.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="28" column="48" lean-forward="false" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/indexTwo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/date.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6815">
+          <caret line="389" column="0" lean-forward="false" selection-start-line="389" selection-start-column="0" selection-end-line="389" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/sortable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6172">
+          <caret line="1" column="15" lean-forward="true" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/register.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="28" column="46" lean-forward="false" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/main3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="61" column="25" lean-forward="true" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="4" column="18" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/detail_insert.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-224">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/db.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="94" column="30" lean-forward="true" selection-start-line="94" selection-start-column="30" selection-end-line="94" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/registerForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/sortableIndex.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="49" lean-forward="true" selection-start-line="0" selection-start-column="49" selection-end-line="0" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/indexTwo.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="10" column="52" lean-forward="true" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/login.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="14" column="82" lean-forward="false" selection-start-line="14" selection-start-column="82" selection-end-line="14" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="25" column="56" lean-forward="false" selection-start-line="25" selection-start-column="56" selection-end-line="25" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="9" column="60" lean-forward="false" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/order.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="20" column="24" lean-forward="false" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/calendar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/hotel.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="751">
+          <caret line="25" column="42" lean-forward="true" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

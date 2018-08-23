@@ -1,0 +1,91 @@
+doctype html
+html
+    head
+        meta(charset="UTF-8")
+        title Index
+        meta(name="viewport", content="width=device-width,height=device-height,user-scalable=no,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0")
+        link(rel="stylesheet", type="text/css", href="../stylesheets/normalize.css")
+        link(rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous")
+        link(rel="stylesheet" href="../stylesheets/main.css")
+        link(rel='stylesheet' href='http://fonts.googleapis.com/css?family=Condiment')
+        link(rel="stylesheet" href="../stylesheets/sortable.min.css")
+        link(rel="stylesheet" type="text/css" href="../stylesheets/menu_elastic.css" )
+        script(type="text/javascript" src="../javascripts/sortable.min.js")
+        script(src="../javascripts/jquery-3.1.1.min.js")
+        script(src="../javascripts/snap.svg-min.js")
+    body
+        div(class="container")
+            div(class="menu-wrap")
+                nav(class="menu")
+                    div(class="icon-list")
+                        a(href="hotel")
+                            i(class="far fa-paper-plane ")
+                            span 推荐
+                        a(href="order")
+                            i(class="far fa-file ")
+                            span 订单
+                        a(href="login")
+                            i(class="fas fa-sign-in-alt ")
+                            span 登录
+                        a(href="#")
+                            i(class="far fa-comment-dots ")
+                            span 消息
+                        a(href="#")
+                            i(class="far fa-smile ")
+                            span 我
+                button(class="close-button" id="close-button") Close Menu
+                div(class="morph-shape" id="morph-shape" data-morph-open="M-1,0h101c0,0,0-1,0,395c0,404,0,405,0,405H-1V0z")
+                    svg(xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 100 800" preserveAspectRatio="none")
+                        path(d="M-1,0h101c0,0-97.833,153.603-97.833,396.167C2.167,627.579,100,800,100,800H-1V0z")/
+            button(class="menu-button" id="open-button") Open Menu
+            div(class="content-wrap")
+                div(class="content")
+                    header(class="codrops-header")
+                        div(class="htmleaf-container")
+                            div(id="intro")
+                                h1(id="text") Tourism is to relax <br>travel is to meet the heart
+                            mian(class="sortable")
+                                div(class="container")
+                                    div(class="wrapper")
+                                        ul(class="sortable__nav nav")
+                                            li
+                                                a(data-sjslink="all" class="nav__link") 所有景点
+                                            li
+                                                a(data-sjslink="flatty" class="nav__link") 国内景点
+                                            li
+                                                a(data-sjslink="funny" class="nav__link") 国外景点
+                                        div(id="sortable" class="sjs-default")
+                                            each i in inlandPic
+                                                div(data-sjsel="flatty")
+                                                    a(href="detail")
+                                                        div(class="card" src="detail.pug")
+                                                            img(class="card__picture", src=i.image)
+                                                            div(class="card-infos")
+                                                                h2(class="card__title") #{i.title}
+                                                                p(class="card__text") #{i.message}
+                                            each i in worldPic
+                                                div(data-sjsel="funny")
+                                                    a(href="detail")
+                                                        div(class="card")
+                                                            img(class="card__picture", src=i.image)
+                                                            div(class="card-infos")
+                                                                h2(class="card__title") #{i.title}
+                                                                p(class="card__text") #{i.message}
+                                            div#showNextPage
+
+
+
+    script(src="../javascripts/sortableIndex.js")
+    script(src="../javascripts/classie.js")
+    script(src="../javascripts/main3.js")
+    //script(src="../javascripts/indexAjax.js")
+    //script(src="../routes/indexTwo.js")
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,28 @@
+doctype html
+html
+    head
+        meta(name="viewport", content="width=device-width, initial-scale=1")
+        meta(charset="UTF-8")
+        title login
+        link(rel="stylesheet", href="../stylesheets/login.css")
+    body
+        div(class="error") #{errors}
+        div(class="main")
+            div(class="form")
+                h2 login now
+                form(action="/login" , method="post")
+                    input(type="text", value="邮箱", id="text" name="email")/
+                    input(type="password", value="password", id="password" name="word")/
+                    span.left
+                        input(type="checkbox")/ 记住密码
+                    span.right
+                        a 忘记密码？
+                    .clear
+                    input(type="submit", value="登录")/
+                    p Don't Have an Account ?
+                        a(href="register") REGISTER NOW
+    script(src="../javascripts/jquery-3.1.1.min.js")
+    script(src="../javascripts/blur.js")
+
+
+

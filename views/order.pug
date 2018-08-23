@@ -1,0 +1,56 @@
+doctype html
+html
+    head
+        meta(charset="UTF-8")
+        meta(name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0")
+        link(rel="stylesheet" href="../stylesheets/calendar.css")
+        link(rel="stylesheet" href="../stylesheets/order.css")
+        script(src="../javascripts/jquery.min.js")
+        script(type="text/javascript" src="../javascripts/date.js")
+    body
+        div(class="form")
+            div(class="f-title") 预定
+            div(class="detail")
+                div(class="picture")
+                    img(src="../images/linjia.png")
+                div(class="message")
+                    span FREEDY良习街口道口未来城武汉大学投影房
+                    span 整套出租
+            .clear
+            div(class="s-title") 入住时段
+            div(id="checkinout")
+                div(id="firstSelect" style="width:100%;")
+                    div(class="Date_lr" style="float:left;")
+                        p 入住
+                        input(id="startDate" type="text" readonly)/
+                    div(class="Date_lr" style="float:right;")
+                        p 离店
+                        input(id="endDate" type="text" readonly)/
+                    span(class="span21") 共
+                        span(class="NumDate") 1
+                        span 晚
+                div(class="mask_calendar")
+                    div(class="calendar")
+            div(class="s-title") 请填写订单信息
+            div(class="person")
+                span 入住人数:
+                div(class="jiajian-1")
+                    input(type="button" class="minus"  value="-")
+                    input(type="text" class="result" value="0")
+                    input(type="button" class="add" value="+")
+                span 人
+                div(class="jiajian-2")
+                    span 人均：
+                    span(class="price") 50
+                        span 元
+            div(class="gwc-queren")
+                div(class="left") 合计
+                    span(id="total" class="total") 0
+                        span 元
+                div(class="right")
+                    a(href="indexTwo") 立即支付
+            .clear
+        script(src="../javascripts/order.js")
+        script(src="../javascripts/orderCad.js")
+
+
